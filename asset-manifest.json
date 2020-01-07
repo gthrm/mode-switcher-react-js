@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "//mode-switcher-react-js/static/css/main.a1564490.chunk.css",
-    "main.js": "//mode-switcher-react-js/static/js/main.585933e0.chunk.js",
-    "main.js.map": "//mode-switcher-react-js/static/js/main.585933e0.chunk.js.map",
-    "runtime-main.js": "//mode-switcher-react-js/static/js/runtime-main.2b4ab32c.js",
-    "runtime-main.js.map": "//mode-switcher-react-js/static/js/runtime-main.2b4ab32c.js.map",
-    "static/js/2.97650806.chunk.js": "//mode-switcher-react-js/static/js/2.97650806.chunk.js",
-    "static/js/2.97650806.chunk.js.map": "//mode-switcher-react-js/static/js/2.97650806.chunk.js.map",
-    "index.html": "//mode-switcher-react-js/index.html",
-    "precache-manifest.069655bacf02f8d297a05945f3c44368.js": "//mode-switcher-react-js/precache-manifest.069655bacf02f8d297a05945f3c44368.js",
-    "service-worker.js": "//mode-switcher-react-js/service-worker.js",
-    "static/css/main.a1564490.chunk.css.map": "//mode-switcher-react-js/static/css/main.a1564490.chunk.css.map",
-    "static/js/2.97650806.chunk.js.LICENSE": "//mode-switcher-react-js/static/js/2.97650806.chunk.js.LICENSE"
+    "main.css": "/mode-switcher-react-js/static/css/main.a1564490.chunk.css",
+    "main.js": "/mode-switcher-react-js/static/js/main.585933e0.chunk.js",
+    "main.js.map": "/mode-switcher-react-js/static/js/main.585933e0.chunk.js.map",
+    "runtime-main.js": "/mode-switcher-react-js/static/js/runtime-main.baf47f2f.js",
+    "runtime-main.js.map": "/mode-switcher-react-js/static/js/runtime-main.baf47f2f.js.map",
+    "static/js/2.97650806.chunk.js": "/mode-switcher-react-js/static/js/2.97650806.chunk.js",
+    "static/js/2.97650806.chunk.js.map": "/mode-switcher-react-js/static/js/2.97650806.chunk.js.map",
+    "index.html": "/mode-switcher-react-js/index.html",
+    "precache-manifest.87b661fc6576acafd2f784a2173d4ebf.js": "/mode-switcher-react-js/precache-manifest.87b661fc6576acafd2f784a2173d4ebf.js",
+    "service-worker.js": "/mode-switcher-react-js/service-worker.js",
+    "static/css/main.a1564490.chunk.css.map": "/mode-switcher-react-js/static/css/main.a1564490.chunk.css.map",
+    "static/js/2.97650806.chunk.js.LICENSE": "/mode-switcher-react-js/static/js/2.97650806.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.2b4ab32c.js",
+    "static/js/runtime-main.baf47f2f.js",
     "static/js/2.97650806.chunk.js",
     "static/css/main.a1564490.chunk.css",
     "static/js/main.585933e0.chunk.js"
